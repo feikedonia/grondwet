@@ -1,0 +1,1 @@
+Geen feit is strafbaar dan uit kracht van een daaraan voorafgegane wettelijke strafbepaling.
