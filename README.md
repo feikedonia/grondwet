@@ -15,5 +15,3 @@ https://www.youtube.com/watch?v=kB5aGrHkw7o&list=PLkpmyFy3uw_rmtiwizvpsCdaBeG9r8
 # Officiële “Memorie van Toelichting”:
 In de memorie van toelichting wordt de grondwet eigenlijk verder aangevuld, dit maakt het lezen van de grondwet zelf zo verrekte moeilijk, omdat de grondwet bijvoorbeeld schrijft in artikel 1:
 «Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld. Discriminatie […] op welke grond dan ook, is niet toegestaan.»
-
-# Hierin vind je alleen mijn aanpassingen, dat werkt beter in github.
