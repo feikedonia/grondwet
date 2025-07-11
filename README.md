@@ -1,5 +1,10 @@
 # grondwet
-Grondwet voor het Koninkrijk der Nederlanden van 24 augustus 1815
+"Grondwet voor het Koninkrijk der Nederlanden van 24 augustus 1815"
+Doel van deze repo is het wijzigen van de grondwet zoals ie nu is, hij moet namelijk beter.
+Dat begint al bij de titel, ik stel voor die te wijzigen in:
+"De Nederlandse Grondwet" omdat 1815 lang geleden was en totaal niet relevant voor wat de grondwet poogt te bereiken, en omdat ze niet in het gehele Koninkrijk geldt, maar alleen in Nederland.
+
+In de tweede plaats wil ik de vele uitzonderingen die de wet kan “regelen” of die “bij of krachtens de wet” kunnen (=delegatie is toegestaan) weg te halen of om te zetten in “de wet bepaalt” “regelt” “stelt regels” (=geen delegatie, de wet moet specifiek zijn).
 
 # De grondwet en “korte toelichting op de inhoud”:
 De geldende tekst van de grondwet, een toelichting op de grondwet kun je hier vinden:
