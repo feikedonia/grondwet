@@ -5,4 +5,4 @@
 
 [1]: Zie artikel 3, lid 3, [Surinaamse grondwet](https://gov.sr/wp-content/uploads/2023/09/grondwet_suriname-1.pdf).
 [2]: Bedoeld wordt de [Vreemdelingenwet 2000](https://wetten.overheid.nl/BWBR0011823/2025-07-09).
-[3]: De wet maakt uitzonderingen ten overstaande dienstplichtigen en ambtenaren die belast zijn met (staats)geheimen.
+[3]: De wet maakt uitzonderingen ten overstaande dienstplichtigen en ambtenaren, belast met (staats)geheimen.
