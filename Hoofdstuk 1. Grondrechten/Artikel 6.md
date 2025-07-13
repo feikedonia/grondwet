@@ -1,5 +1,9 @@
 # Scheiding van kerk en staat
+~~Artikel 6, lid 1~~
+~~Ieder heeft het recht zijn godsdienst of levensovertuiging, individueel of in gemeenschap met anderen, vrij te belijden, behoudens ieders verantwoordelijkheid volgens de wet.~~
 
+~~Artikel 6, lid 2~~
+~~De wet kan ter zake van de uitoefening van dit recht buiten gebouwen en besloten plaatsen regels stellen ter bescherming van de gezondheid, in het belang van het verkeer en ter bestrijding of voorkoming van wanordelijkheden.~~
 
 1. Er zal geen staatsgodsdienst zijn.[^1]
 2. De overheid zal geen der welke godsdienst bevorderen noch onderdrukken.[^2]
