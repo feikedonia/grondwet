@@ -1,7 +1,8 @@
 # sorry, deze inleiding is vrij onaf…
 
-## grondwet
+## titel van de grondwet
 "Grondwet voor het Koninkrijk der Nederlanden van 24 augustus 1815"
+Dat is de titel van de Nederlandse grondwet, maar de grondwet geldt alleen in het land Nederland, niet in het gehele Koninkrijk, en de huidige versie geldt vanaf  22-02-2023, niet 1815 ook niet 1848, zoals veel mensen wordt wijsgemaakt.
 Doel van deze repo is het wijzigen van de grondwet zoals ie nu is, hij moet namelijk beter.
 Dat begint al bij de titel, ik stel voor die te wijzigen in:
 "De Nederlandse Grondwet" omdat 1815 lang geleden was en totaal niet relevant voor wat de grondwet poogt te bereiken, en omdat ze niet in het gehele Koninkrijk geldt, maar alleen in Nederland.
