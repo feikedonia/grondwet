@@ -1,17 +1,18 @@
-# Scheiding van kerk en staat
+# Vrijheid van godsdienst en geweten
 ~~Artikel 6, lid 1~~
 ~~Ieder heeft het recht zijn godsdienst of levensovertuiging, individueel of in gemeenschap met anderen, vrij te belijden, behoudens ieders verantwoordelijkheid volgens de wet.~~
 
 ~~Artikel 6, lid 2~~
 ~~De wet kan ter zake van de uitoefening van dit recht buiten gebouwen en besloten plaatsen regels stellen ter bescherming van de gezondheid, in het belang van het verkeer en ter bestrijding of voorkoming van wanordelijkheden.~~
 
-1. Er zal geen staatsgodsdienst zijn.[^1]
-2. De overheid zal geen der welke godsdienst bevorderen noch onderdrukken.[^2]
-3. De overheid bemoeit zich niet met de vrije uitoefening van een godsdienst,[^3] maar bij wet kunnen wel bepalingen omtrent de bouw-, brand- en structurele veiligheid van religieuze gebouwen worden gesteld.[^4]
-4. Niemand kan worden gedwongen om op enige wijze deel te nemen aan de handelingen of plechtigheden van een godsdienst, noch om de rustdagen ervan te onderhouden.[^5]
+1. *De vrijheden van geweten, gedachten, geloof en levensovertuiging zijn onschendbaar.*[^1]
+2. *Iedereen heeft het recht zijn godsdienst of levensovertuiging vrij te beoefenen, behoudens bestraffing van de misdrijven die ter gelegenheid van het gebruikmaken van die vrijheden worden gepleegd.*[^2]
+4. *De vrijheid bedoeld in lid 2 mag, indien dat noodzakelijk is in een democratische samenleving, bij de wet worden beperkt, uitsluitend in het belang van de openbare veiligheid, voor de bescherming van de openbare orde, gezondheid of goede zeden of voor de bescherming van de rechten en vrijheden van anderen.*[^3]
+3. *Niemand kan worden gedwongen tegen zijn geweten bewapende militaire dienstplicht te vervullen; de wet regelt de verdere uitwerking van dit recht.*[^4]
 
-[^1]: Zie het [eerste amendement van de Amerikaanse grondwet](https://www.law.cornell.edu/constitution/first_amendment).
-[^2]: De overheid bezigt nu beleid voor een "pluriforme ontwikkeling" van godsdiensten, zoals in artikel 2.10, lid 4, [Wet dieren](https://wetten.overheid.nl/BWBR0030250/2025-01-01#Hoofdstuk2_Paragraaf1_Artikel2.10). Scheiding van kerk en staat zou betekenen dat dit lid onconstitutioneel is en dat de uitzondering wordt opgeheven.
-[^3]: Zie nog steeds het eerste amendement van de Amerikaanse grondwet, uit welks jurisprudentie blijkt dat de overheid zich niet mag mengen met godsdienst. [Engels v. Vitale (1962)](https://supreme.justia.com/cases/federal/us/370/421/): gebed op openbare scholen verboden → in strijd met Establishment Clause.
-[^4]: De wet moet natuurlijk wel de veiligheid der gebouwen kunnen garanderen!
-[^5]: Zie [artikel 20 Belgische grondwet](https://nl.wikisource.org/wiki/Belgische_Grondwet_-_Titel_2).
+[^1]: Zie [artikel 4, lid 1, Duitse grondwet](https://www.bundestag.de/parlament/aufgaben/rechtsgrundlagen/grundgesetz).
+[^2]: Zie [artikel 19, Belgische grondwet](https://www.lachambre.be/pdf_sections/publications/constitution/grondwet_sjd_nl_20240704_webversie_drukversie.pdf).
+[^3]: Zie [artikel 9, lid 2, EVRM](https://wetten.overheid.nl/BWBV0001000/2010-06-10#Verdrag_2_Verdragtekst_TiteldeelI_Artikel9).
+[^4]: Zie de [Wet gewetensbezwaren militaire dienst](https://wetten.overheid.nl/BWBR0002386/2020-01-01).
+
+

@@ -1,4 +1,4 @@
-# Vrijheid van godsdienst en meningsuiting
+# Vrijheid van meningsuiting
 ~~Artikel 7, lid 1~~
 ~~Niemand heeft voorafgaand verlof nodig om door de drukpers gedachten of gevoelens te openbaren, behoudens ieders verantwoordelijkheid volgens de wet.~~
 
