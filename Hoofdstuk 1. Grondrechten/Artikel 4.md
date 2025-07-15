@@ -13,3 +13,4 @@
 
 [^1]: Dit is sterker opgeschreven: actief stemrecht is er voor iedere volwassen Nederlander in het gebied waar hij woont.
 [^2]: Als de rechter je veroordeelt voor 5 jaar in de nor of langer, kan die daar een ontzegging van het recht om verkozen te worden (passief kiesrecht) als bijkomende straf opleggen. Nu is dat 1 jaar nor, en ontzegging van passief én actief kiesrecht. De status quo laat de overheid de mogelijkheid bepaalde gedragingen die bepaalde groepen voornamelijk vertonen, te criminaliseren om ze zo te behouden van stemmen. Dit gebeurde in de VS nadat de slavernij was afgeschaft.
+Vraag is wel of lid 1, 2, 4 en 5 juridisch kloppen, een jurist zou dit moeten controleren.

@@ -12,9 +12,9 @@
 ~~De voorgaande leden zijn niet van toepassing op het maken van handelsreclame.~~[^3]
 
 1. *Iedereen heeft recht op vrijheid van meningsuiting. Dit recht omvat de vrijheid om een mening te koesteren en te delen, en om informatie of ideëen te ontvangen of te verspreiden, ongeacht grenzen en zonder inmenging van de overheid.*
-   *Bij de wet kunnen radio- en televisieomroepen en bioscopen worden onderworpen aan een systeem van vergunningen.*
-2. *De vrijheid van meningsuiting mag slechts worden beperkt als dat wettelijk is vastgelegd en noodzakelijk is in een democratische samenleving. Zo'n beperking mag er alleen zijn:*
-   1. *ter bescherming van de nationale veiligheid, de territoriale integriteit of de openbare orde;*
+   *Bij de wet kunnen radio- en televisieomroepen en bioscopen worden onderworpen aan een systeem van vergunningen.*  
+2. *De vrijheid van meningsuiting mag slechts worden beperkt als dat wettelijk is vastgelegd en noodzakelijk is in een democratische samenleving. Dat kan uitsluitend:*
+   1. *in het belang van de nationale veiligheid, de territoriale integriteit of de openbare veiligheid;*
    2. *ter voorkoming van wanordelijkheden en strafbare feiten;*
    3. *ter bescherming van de gezondheid of de goede zeden;*
    4. *ter bescherming van de goede naam of de rechten van anderen;*
