@@ -1,11 +1,24 @@
-# Discriminatieverbod
-~~Artikel 1.~~
-~~Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of op welke grond dan ook, is niet toegestaan.~~
+# Hoofdstuk 1. Grondrechten
+### 1°. Discriminatieverbod
+~~Artikel 1, eerste zin~~
+~~Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld.~~
 
-1. *Voor de wet is iedereen gelijk.*[^1]
-2. *Niemand mag op grond van geslacht, kleur, seksuele gerichtheid, biologische kenmerken, taal, nationale of maatschappelijke afkomst, handicap, leervermogen, geboorte, herkomst of enig andere onveranderbare status gediscrimineerd worden.*[^2]
-3. *De overheid bevordert de daadwerkelijke verwezenlijking van ieders gelijke rechten. Bij of krachtens de wet kan een doelgerichte, proportionele voorkeursbehandeling geven worden aan personen die feitelijk ongelijk worden behandeld met als doel deze ongelijke behandeling te verminderen of op te heffen.*[^3]
+~~Artikel 1, tweede zin~~
+~~Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of op welke grond dan ook, is niet toegestaan.~~
 
-[^1]: Zie [artikel 3, lid 1, Duitse grondwet](https://www.bundestag.de/parlament/aufgaben/rechtsgrundlagen/grundgesetz).
-[^2]: Hier worden nadrukkelijk onveranderbare gronden genoemd, omdat het moreel verwerpelijk is om buitengesloten te worden op gronden waaraan iemand niets kan veranderen. Het tegenovergestelde hiervan is ook waar: het kan moreel oké zijn om bepaalde groepen voor te trekken of buiten te sluiten in specifieke situaties. Gekozen is om in de Grondwet een algemener verbod, dat vooral aan de overheid zélf is gericht, te formuleren; gewone wetten zoals het [Wetboek van Strafrecht](https://wetten.overheid.nl/BWBR0001827/2025-07-01) en de [Algemene Wet Gelijke Behandeling](https://wetten.overheid.nl/BWBR0006502/2015-07-01), moeten discriminatie en racisme in het dagelijkse leven aanpakken.
-[^3]: Positieve discriminatie is een uitzonderingsbeleid. Er moet een balans zijn tussen: Gelijke behandeling voor iedereen en het rechtzetten van structurele ongelijkheid.
+1. *Iedereen is gelijk voor de wet en heeft recht op gelijke bescherming en voordeel van de wet.*[^1]
+2. *De overheid bevordert de feitelijke gelijke behandeling actief.*
+   *Ter bevordering van feitelijke gelijkheid kunnen bij of krachtens de wet maatregelen worden genomen ten gunste van personen of groepen die door structurele achterstelling of historisch nadeel worden getroffen.*[^2]
+   *Dergelijke maatregelen zijn gerechtvaardigd indien zij een legitiem doel dienen en proportioneel zijn ten opzichte van dat doel.*[^3]
+3. *De overheid mag niemand op directe of indirecte wijze op op welke grond dan ook, zoals ras, geslacht, zwangerschap, burgerlijke staat, nationale of maatschappelijke afkomst, kleur, seksuele oriëntatie of gerichtheid, leeftijd, handicap, godsdienst, geweten, levensovertuiging, politieke of andere mening, cultuur, taal, geboorte of enig andere status, discrimineren.*[^4]
+4. *Niemand mag iemand op directe of indirecte wijze op welke grond dan ook, zoals opgesomd in lid 3 of enig andere status, discrimineren.*[^5]
+   *Er moeten nationale wetten komen om discriminatie te voorkomen of te verbieden.*[^6]
+5. *Ongelijke behandeling op welke grond dan ook, zoals opgesomd in lid 3 of enige andere status, is discriminatie tenzij wordt vastgesteld dat die ongelijke behandeling gerechtvaardigd is.*[^6]
+
+[^1]: Zie [amendement XIV, afdeling 1, tweede zin, Amerikaanse grondwet](https://www.law.cornell.edu/constitution/amendmentxiv) en zie [artikel 9, lid 1, Zuid-Afrikaanse grondwet.](https://www.justice.gov.za/constitution/chp02.html) Het klassieke gelijkheidsbeginsel.
+[^2]: "Feitelijke gelijkheid" betekent de (on)gelijkheid die er in de praktijk is, bijv. de ongelijke salarissen tussen mannen en vrouwen. "Bij of krachtens de wet" betekent dat er wetten maar ook andere maatregelen genomen kunnen worden, zoals besluiten van een ministerie of provincie.
+[^3]: Dat is hoe het EVRM "positieve discriminatie" noemt en rechtvaardigt.
+[^4]: Zie [artikel 9, lid 3, Zuid-Afrikaanse grondwet.](https://www.justice.gov.za/constitution/chp02.html) Dit artikel verbied "horizontale" discriminatie, dat wil zeggen de overheid mag het niet, dat onderscheid is evident nodig.
+[^5]: Zie [artikel 9, lid 4, Zuid-Afrikaanse grondwet.](https://www.justice.gov.za/constitution/chp02.html) Dit is de "verticale werking" van het discriminatieverbod, dat wil zeggen: de overheid versus de burger en burgers onderling.
+[^6]: "Nationale wet": já, er wordt onderscheid gemaakt tussen nationale en gedecentraliseerde wet, dat wil zeggen dat de nationale overheid minder "controle" heeft over de gemeentes en provincies (en natuurlijk de Caribische openbare lichamen), dat ze hun taken beter, zelfstándig kunnen uitvoeren.
+[^7]: Discriminatie door de overheid is verboden totdat de rechter zegt dat het mag vanwegen de "positieve werking".

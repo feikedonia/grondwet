@@ -1,4 +1,4 @@
-# Vrije belijding van godsdienst of levensovertuiging
+# Vrijheid van godsdienst en geweten
 ~~Ieder heeft het recht zijn godsdienst of levensovertuiging, individueel of in gemeenschap met anderen, vrij te belijden, behoudens ieders verantwoordelijkheid volgens de wet.~~
 
 ~~Artikel 6, lid 2~~
