@@ -1,5 +1,5 @@
 # Hoofdstuk 1. Grondrechten
-### 1°. Discriminatieverbod
+## §1. Discriminatieverbod
 ~~Artikel 1, eerste zin~~
 ~~Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld.~~
 
