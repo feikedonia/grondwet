@@ -11,7 +11,7 @@
 4. Aan niemand mag willekeurig het recht worden ontnomen naar zijn eigen land terug te keren.[^3]
 5. Elke Nederlander heeft recht op een paspoort.[^4]
 
-[^1]: Het oude lid 2 wordt door deels door het nieuwe lid 1 ontkracht omdat de wet niet zomaar iedereen als vreemdeling kan uitzetten, hij moet eerst illegaal zijn (bijv. een Belg is een vreemdeling, maar is niet illegaal). Het oude lid 2 wordt door het nieuwe lid 4 ontkracht omdat illegalen niet zomaar overal naartoe kunnen worden uitgezet.
+[^1]: Het oude lid 2 wordt door deels door het nieuwe lid 1 ontkracht omdat de wet niet zomaar iemand als vreemdeling kan uitzetten, hij moet eerst illegaal zijn (bijv. een Belg is een vreemdeling, maar is niet illegaal). Het oude lid 2 wordt door het nieuwe lid 4 ontkracht omdat illegalen niet zomaar overal naartoe kunnen worden uitgezet.
 [^2]: Het oude lid 4 blijft wel overeind, maar de uitzonderingen die de wet kan geven worden zwaar ingeperkt.
 [^3]: Leden 1 t/m 4 zijn bijna een exacte kopie van [artikel 12, IVBPR.](https://wetten.overheid.nl/BWBV0001017/1979-03-11#Verdrag_2_Verdragtekst_1_DeelIII_Artikel12)
 [^4]: Zie [artikel 21, lid 4, Zuid-Afrikaanse grondwet.](https://www.justice.gov.za/constitution/chp02.html)
