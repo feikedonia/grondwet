@@ -17,24 +17,8 @@
 5. *Ongelijke behandeling op welke grond dan ook, zoals opgesomd in lid 3 of enige andere status, wordt als discriminatie aangemerkt, tenzij wordt vastgesteld dat deze ongelijke behandeling gerechtvaardigd is overeenkomstig de in lid 2 bedoelde voorwaarden.*[^5]
 
 [^1]: Zie [amendement XIV, afdeling 1, tweede zin, Amerikaanse grondwet](https://www.law.cornell.edu/constitution/amendmentxiv) en zie [artikel 9, lid 1, Zuid-Afrikaanse grondwet.](https://www.justice.gov.za/constitution/chp02.html) Het klassieke gelijkheidsbeginsel. Iedereen moet gelijk worden behandeld in gelijke gevallen, zonder willekeur of vooringenomenheid. Dit lid vormt de juridische basis voor gelijke bescherming door én tegen de overheid.
-[^2]: Dit lid gaat een stap verder dan formele gelijkheid. Het erkent dat sommige groepen door structurele achterstelling of historisch nadeel niet daadwerkelijk gelijke kansen hebben. Daarom krijgt de overheid de opdracht om actief positieve maatregelen te nemen (ook wel positieve discriminatie genoemd).
-Belangrijke voorwaarden zijn: 
-- Het moet een legitiem doel dienen (zoals het bevorderen van gelijke kansen).
-- Het moet proportioneel zijn.
-- Het moet niet verder gaan dan noodzakelijk.
-- Er wordt gekeken naar individuele omstandigheden, dus maatwerk is vereist.
+[^2]: Dit lid gaat een stap verder dan formele gelijkheid. Het erkent dat sommige groepen door structurele achterstelling of historisch nadeel niet daadwerkelijk gelijke kansen hebben. Daarom krijgt de overheid de opdracht om actief positieve maatregelen te nemen (ook wel positieve discriminatie genoemd). Belangrijke voorwaarden zijn: 1. Het moet een legitiem doel dienen (zoals het bevorderen van gelijke kansen). 2. Het moet proportioneel zijn. 3. Het moet niet verder gaan dan noodzakelijk. 4. Er wordt gekeken naar individuele omstandigheden, dus maatwerk is vereist.
 [^3]: Verbod op discriminatie door de overheid. In het volgende lid wordt discriminatie verboden tussen burgers onderling, dit onderscheid is er om extra nadruk te leggen dat niemand mag discrimineren. Sommige juristen hebben het namelijk over de "verticale" en "horizontale" werking van de grondwet, ze zeggen de grondwet heeft alleen horizontale werking en verbied de overheid van discriminatie.
-[^4]: Waar lid 3 de overheid bindt, richt dit lid zich op iedereen: burgers, werkgevers, bedrijven, instellingen, enz. De overheid krijgt een zorgplicht om:
--    Discriminatie te voorkomen
-- Te bestrijden
-- En te bestraffen
-Dat betekent dat wetgeving, handhaving en bewustwording allemaal onderdeel moeten zijn van antidiscriminatiebeleid – óók in de private sfeer, zoals op de arbeidsmarkt of in de woningverhuur.
-[^5]: Dit lid verduidelijkt dat ongelijke behandeling in principe als discriminatie geldt, maar onder strikte voorwaarden soms toch geoorloofd kan zijn. Dit sluit aan bij lid 2, waarin positieve maatregelen onder voorwaarden zijn toegestaan.
-Voorbeeld: leeftijdsgrenzen in pensioenregelingen of het vrouwenquotum in de top van het bedrijfsleven kunnen gerechtvaardigde vormen van ongelijke behandeling zijn.
-[^6]: ChatGPT vat het gehele artikel samen:
-  - Verankert klassieke rechtsgelijkheid (lid 1).
-  - Stimuleert actieve gelijke behandeling via beleid en wetgeving (lid 2).
-  - Verbiedt discriminatie door de overheid (lid 3).
-  - Breidt het verbod uit naar alle burgers en bedrijven, met handhaving door de overheid (lid 4).
-  - Erkent dat ongelijke behandeling soms toegestaan is onder strikte voorwaarden (lid 5).
-Het artikel is ambitieus en modern. Het combineert klassieke rechtsbeginselen met hedendaagse inzichten over sociale rechtvaardigheid en structurele ongelijkheid.
+[^4]: Waar lid 3 de overheid bindt, richt dit lid zich op iedereen: burgers, werkgevers, bedrijven, instellingen, enz. De overheid krijgt een zorgplicht om discriminatie te voorkomen, te bestrijden en te bestraffen. Dat betekent dat wetgeving, handhaving en bewustwording allemaal onderdeel moeten zijn van antidiscriminatiebeleid – óók in de private sfeer, zoals op de arbeidsmarkt of in de woningverhuur.
+[^5]: Dit lid verduidelijkt dat ongelijke behandeling in principe als discriminatie geldt, maar onder strikte voorwaarden soms toch geoorloofd kan zijn. Dit sluit aan bij lid 2, waarin positieve maatregelen onder voorwaarden zijn toegestaan. Bijvoorbeeld: leeftijdsgrenzen in pensioenregelingen of het vrouwenquotum in de top van het bedrijfsleven kunnen gerechtvaardigde vormen van ongelijke behandeling zijn.
+[^6]: ChatGPT vat het gehele artikel samen, het: «Verankert klassieke rechtsgelijkheid (lid 1); Stimuleert actieve gelijke behandeling via beleid en wetgeving (lid 2); Verbiedt discriminatie door de overheid (lid 3); Breidt het verbod uit naar alle burgers en bedrijven, met handhaving door de overheid (lid 4);—en Erkent dat ongelijke behandeling soms toegestaan is onder strikte voorwaarden (lid 5). Het artikel is ambitieus en modern. Het combineert klassieke rechtsbeginselen met hedendaagse inzichten over sociale rechtvaardigheid en structurele ongelijkheid.»
