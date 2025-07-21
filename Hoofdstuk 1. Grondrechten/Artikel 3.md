@@ -1,4 +1,4 @@
-# Gelijke benoembaarheid
+## §4. Gelijke benoembaarheid
 ~~Artikel 3.~~
 ~~Alle Nederlanders zijn op gelijke voet in openbare dienst benoembaar.~~[^1]
 
