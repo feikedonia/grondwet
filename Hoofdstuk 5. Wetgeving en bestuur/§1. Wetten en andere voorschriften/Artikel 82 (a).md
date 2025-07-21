@@ -1,0 +1,4 @@
+1. Wanneer door de ministerraad goedgevonden kunnen voorstellen van nationale wet door de regering worden ingediend aan de Tweede Kamer. Een lid of leden gezamenlijk van de Tweede Kamer of een lid of leden gezamenlijk van de Eerste Kamer kunnen voorstellen van nationale wet aan de Tweede Kamer indienen.
+  Voorstellen van wet kunnen worden ingediend door of vanwege de Koning en door de Tweede Kamer der Staten-Generaal.
+3. Voorstellen van wet waarvoor behandeling door de Staten-Generaal in verenigde vergadering is voorgeschreven, kunnen worden ingediend door of vanwege de Koning en, voor zover de betreffende artikelen van hoofdstuk 2 dit toelaten, door de verenigde vergadering.
+4. Voorstellen van wet, in te dienen door de Tweede Kamer onderscheidenlijk de verenigde vergadering, worden bij haar door een of meer leden aanhangig gemaakt.
