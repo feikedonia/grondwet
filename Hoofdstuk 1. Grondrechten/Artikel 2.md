@@ -8,8 +8,8 @@
 ~~Artikel 2, lid 4.~~
 ~~Ieder heeft het recht het land te verlaten, behoudens in de gevallen, bij de wet bepaald.~~[^2]
 
-1. *Iedereen die zich wettig in Nederland bevindt, heeft het recht zich binnen Nederland vrij te verplaatsen en zijn verblijfplaats vrij te kiezen.[^1]
-2. Iedereen heeft het recht Nederland te verlaten.*
+1. *Iedereen die zich wettig in Nederland bevindt, heeft het recht zich binnen Nederland vrij te verplaatsen en zijn verblijfplaats vrij te kiezen.*[^1]
+2. *Iedereen heeft het recht Nederland te verlaten.*
 3. *Bij nationale wet kunnen beperkingen aan de bovengenoemde rechten worden gesteld, mits ter bescherming van de nationale of internationale veiligheid, de openbare orde, de volksgezondheid of de goede zeden of van de rechten en vrijheden van anderen, en mits verenigbaar met de andere in de Grondwet erkende rechten.*[^2]
 4. *Aan niemand mag willekeurig het recht worden ontnomen naar zijn eigen land terug te keren.*[^3]
 5. *Elke Nederlander heeft recht op een paspoort.*[^4]
