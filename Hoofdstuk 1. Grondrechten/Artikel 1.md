@@ -1,11 +1,13 @@
 # Hoofdstuk 1. Grondrechten
-### Artikel 1. Discriminatieverbod
+
+### Artikel 1. Verbod van discriminatie
+
 ~~Artikel 1, tweede zin~~
 ~~Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of op welke grond dan ook, is niet toegestaan.~~
 
-   1. *De overheid mag niemand, op directe of indirecte wijze, discrimineren op welke grond dan ook, waaronder mede begrepen* ras, geslacht, *zwangerschap, burgerlijke staat, nationale of maatschappelijke afkomst, huidskleur*, seksuele gerichtheid, *leeftijd*, handicap, godsdienst, levensovertuiging, politieke *of andere mening, cultuur, taal, geboorte of enig andere status.*[^3]
+   1. *De staat mag niemand, op directe of indirecte wijze, discrimineren op welke grond dan ook, zoals* ras, geslacht, *zwangerschap, burgerlijke staat, nationale of maatschappelijke afkomst, huidskleur*, seksuele gerichtheid, *leeftijd*, handicap, godsdienst, levensovertuiging, politieke *of andere mening, cultuur, taal, geboorte of enig andere status.*[^3]
    2. *De overheid bevordert de feitelijke gelijkheid van personen en groepen die structureel zijn achtergesteld of historisch nadeel hebben ondervonden. Daartoe kunnen **bij of krachtens de wet** maatregelen worden getroffen ten gunste van deze personen of groepen. Dergelijke maatregelen zijn slechts gerechtvaardigd indien zij een legitiem doel dienen, geschikt en noodzakelijk zijn ter bereiking van dat doel, en  in redelijke verhouding staan tot het nagestreefde resultaat.*[^2]
-   3. *Niemand mag een ander, op directe of indirecte wijze, discrimineren op grond van één der in het eerste lid genoemde of een vergelijkbare grond.*[^4]
+   3. *Niemand mag een ander, op directe of indirecte wijze, discrimineren op welke grond dan ook, zoals bedoeld in het eerste lid of enig andere status.*[^4]
    4. *Ongelijke behandeling op een in dit artikel bedoelde grond wordt als discriminatie aangemerkt, tenzij die behandeling gerechtvaardigd is overeenkomstig de in het tweede lid gestelde voorwaarden.*[^5]
 
 [^2]: Dit lid gaat een stap verder dan formele gelijkheid. Het erkent dat sommige groepen door structurele achterstelling of historisch nadeel niet daadwerkelijk gelijke kansen hebben. Daarom krijgt de overheid de opdracht om actief positieve maatregelen te nemen (ook wel positieve discriminatie genoemd). Belangrijke voorwaarden zijn: 1. Het moet een legitiem doel dienen (zoals het bevorderen van gelijke kansen). 2. Het moet proportioneel zijn. 3. Het moet niet verder gaan dan noodzakelijk. 4. Er wordt gekeken naar individuele omstandigheden, dus maatwerk is vereist.

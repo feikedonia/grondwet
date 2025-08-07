@@ -1,4 +1,5 @@
 ### Artikel 2. Nationaliteit
+
 ~~Artikel 2, lid 1~~
 ~~De wet regelt wie Nederlander is.~~[^6]
 
